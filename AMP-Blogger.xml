@@ -61,7 +61,7 @@
 <link href='https://plus.google.com/+AniSunaryati' rel='noopener'/>
 <link href='https://plus.google.com/+AniSunaryati' rel='me'/>
 <link href='https://plus.google.com/+AniSunaryati' rel='publisher'/>
-<meta content='lQui7tJkUcJ-2pNzu21yynvWtqdb_4QI8sNQO9fWZCk' name='google-site-verification'/>
+<meta content='xxxxx' name='google-site-verification'/>
 <meta content='xxxxx' name='msvalidate.01'/>
 <meta content='1504493186332576' property='fb:admins'/>
 <meta content='xxxxx' property='fb:profile_id'/>
@@ -95,7 +95,8 @@
 <style amp-custom='amp-custom'>
 /*=======================HOMEPAGE
 TEMPLATE NAME: CUSTOM AMP
-AUTHOR: NONAME
+AUTHOR: RAAMAIBEUD
+URI: https://ramaibeud.blogspot.com
 ================================*/
 
 /* FontAwesome */
@@ -317,7 +318,8 @@ height:100%}
 <style amp-custom='amp-custom'>
 /*=======================POSTAGE
 TEMPLATE NAME: CUSTOM AMP
-AUTHOR: NONAME
+AUTHOR: RAAMAIBEUD
+URI: https://ramaibeud.blogspot.com
 ================================*/
 
 
@@ -486,6 +488,19 @@ a.fbamp,a.gplusamp,a.linkamp,a.pintamp,a.twitamp{color:#fff}
 #credit-amp a{color:#90b3b9}
 #credit-amp a:hover{color:#777}
 
+/* CSS Syntax Highlighter */
+pre{-webkit-user-select:text;-khtml-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text;padding:0;margin:.5em auto;white-space:pre;word-wrap:break-word;overflow:auto;background-color:#443e50;position:relative;padding-top:33px;width:100%;-moz-tab-size:2;-o-tab-size:2;tab-size:2;word-break:normal;-webkit-user-select:text;-khtml-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none;border-radius:3px;}
+pre::-webkit-scrollbar,pre::-moz-scrollbar,pre code::-webkit-scrollbar,pre code::-moz-scrollbar,code::-webkit-scrollbar,code::-moz-scrollbar {display:none;}
+pre::before{font-size:15px;font-weight:700;content:attr(title);position:absolute;top:0;padding:9px 0;left:0;right:0;color:#ffffff;display:block;margin:0;text-indent:15px}
+pre:after{display:inline-block;content:"\f121";font-family:fontAwesome;font-style:normal;font-weight:normal;font-size:18px;color:#ffffff;top:0;right:0;padding:9px 14px;position:absolute}
+pre code{display:block;background:none;border:none;color:#bec3ce;padding:25px 20px 20px 20px;font-family:'Source Code Pro',Menlo,Consolas,Monaco,monospace;font-size:.83rem;white-space:pre;overflow:auto}
+code .token.important {font-weight:bold;}
+code .token.entity {cursor:help;}
+code {font-family:Consolas,Monaco,'Andale Mono',monospace;white-space:initial;word-spacing:normal;word-break:normal;font-size:14px;line-height:1.3em}
+code{color:#BC587E}
+pre mark,code mark,pre code mark {background-color:#3498db;color:#fff;padding:2px;margin:0 2px;border-radius:2px;}
+pre[data-codetype="CSSku"]:before,pre[data-codetype="PHPku"]:before,pre[data-codetype="JSONku"]:before, pre[data-codetype="HTMLku"]:before,
+pre[data-codetype="JavaScriptku"]:before,pre[data-codetype="JQueryku"]:before{background-color:#90b3b9;box-shadow:inset 0 0 0 1px #ffffff;}
 /* Responsive */
 @media screen and (max-width:1024px){
 #menu ul,.header-amp{width:100%}
@@ -539,7 +554,8 @@ a.fbamp,a.gplusamp,a.linkamp,a.pintamp,a.twitamp{color:#fff}
 <style amp-custom='amp-custom'>
 /*=======================STATIS
 TEMPLATE NAME: CUSTOM AMP
-AUTHOR: NONAME
+AUTHOR: RAAMAIBEUD
+URI: https://ramaibeud.blogspot.com
 ================================*/
 
 
@@ -697,8 +713,6 @@ body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animatio
 <script async='async' custom-element='amp-social-share' src='https://cdn.ampproject.org/v0/amp-social-share-0.1.js'/>
 <script async='async' custom-element='amp-analytics' src='https://cdn.ampproject.org/v0/amp-analytics-0.1.js'/>
 <script async='async' custom-template='amp-mustache' src='https://cdn.ampproject.org/v0/amp-mustache-0.1.js'/>
-<script async='async' custom-element='amp-ad' src='https://cdn.ampproject.org/v0/amp-ad-0.1.js'/>
-<script async='async' custom-element='amp-sticky-ad' src='https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js'/>
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
 <script async='async' custom-element='amp-facebook-comments' src='https://cdn.ampproject.org/v0/amp-facebook-comments-0.1.js'/>
 </b:if>
@@ -709,7 +723,7 @@ body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animatio
 <script type='application/json'>
 {
   &quot;vars&quot;: {
-    &quot;account&quot;: &quot;UA-89436322-3&quot;
+    &quot;account&quot;: &quot;UA-Xxxxxx-3&quot;
   },
   &quot;triggers&quot;: {
     &quot;trackPageview&quot;: {
@@ -773,13 +787,6 @@ body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animatio
 </div>
 </div><!-- /header-amp -->
 <div class='clear'/>
-&lt;amp-ad width=&quot;100vw&quot; height=&quot;320&quot;
-     type=&quot;adsense&quot;
-     data-ad-client=&quot;ca-pub-5103030660442496&quot;
-     data-ad-slot=&quot;6169937743&quot;
-     data-auto-format=&quot;rspv&quot; data-full-width&gt;
-  &lt;div overflow&gt;&lt;/div&gt;
-&lt;/amp-ad&gt;
 <div class='boxamp'>
 <div id='search-amp'>
 <form action='/search' id='sc-amp' itemprop='potentialAction' itemscope='itemscope' itemtype='http://schema.org/SearchAction' target='_blank'>
@@ -1135,22 +1142,10 @@ body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animatio
           <div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id'>
 
          <b:if cond='data:blog.pageType == &quot;item&quot;'>
-&lt;amp-ad width=&quot;100vw&quot; height=&quot;320&quot;
-     type=&quot;adsense&quot;
-     data-ad-client=&quot;ca-pub-5103030660442496&quot;
-     data-ad-slot=&quot;6169937743&quot;
-     data-auto-format=&quot;rspv&quot; data-full-width&gt;
-  &lt;div overflow&gt;&lt;/div&gt;
-&lt;/amp-ad&gt;
+
   <data:post.body/>
 
-&lt;amp-ad width=&quot;100vw&quot; height=&quot;320&quot;
-     type=&quot;adsense&quot;
-     data-ad-client=&quot;ca-pub-5103030660442496&quot;
-     data-ad-slot=&quot;5249282906&quot;
-     data-auto-format=&quot;rspv&quot; data-full-width&gt;
-  &lt;div overflow&gt;&lt;/div&gt;
-&lt;/amp-ad&gt;
+
 </b:if>
 
             <div class='clear'/> <!-- clear for photos floats -->
@@ -1422,22 +1417,10 @@ body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animatio
   </b:if>
 <b:if cond='data:blog.pageType == &quot;item&quot; or data:blog.pageType == &quot;static_page&quot;'>
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
-&lt;amp-ad width=&quot;100vw&quot; height=&quot;320&quot;
-     type=&quot;adsense&quot;
-     data-ad-client=&quot;ca-pub-5103030660442496&quot;
-     data-ad-slot=&quot;6169937743&quot;
-     data-auto-format=&quot;rspv&quot; data-full-width&gt;
-  &lt;div overflow&gt;&lt;/div&gt;
-&lt;/amp-ad&gt;
+
   <data:post.body/>
 
-&lt;amp-ad width=&quot;100vw&quot; height=&quot;320&quot;
-     type=&quot;adsense&quot;
-     data-ad-client=&quot;ca-pub-5103030660442496&quot;
-     data-ad-slot=&quot;5249282906&quot;
-     data-auto-format=&quot;rspv&quot; data-full-width&gt;
-  &lt;div overflow&gt;&lt;/div&gt;
-&lt;/amp-ad&gt;
+
 </b:if>
 </b:if>
       <div class='clear'/> <!-- clear for photos floats -->
@@ -1480,14 +1463,7 @@ body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animatio
                 </b:section>
 </div></div>  
 <div class='sidebar-amp'>
-&lt;amp-ad width=&quot;100vw&quot; height=320
-     type=&quot;adsense&quot;
-     data-ad-client=&quot;ca-pub-5103030660442496&quot;
-     data-ad-slot=&quot;4473766594&quot;
-     data-auto-format=&quot;rspv&quot;
-     data-full-width&gt;
-  &lt;div overflow&gt;&lt;/div&gt;
-&lt;/amp-ad&gt;
+
  <b:section class='sidebar' id='sidebar' showaddelement='yes'>
    <b:widget id='PopularPosts1' locked='false' title='Popular Posts' type='PopularPosts' version='1'>
      <b:widget-settings>
@@ -1611,10 +1587,6 @@ body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animatio
 </div>
 <div class='clear'/>
 <div id='footer'>
-<amp-sticky-ad layout='nodisplay'>
-  <amp-ad data-ad-client='ca-pub-5103030660442496' data-ad-slot='6169937743' height='50' type='adsense' width='320'>
-</amp-ad>
-</amp-sticky-ad>
 
 <div class='art-amp'>
             <div class='footer-amp'>
