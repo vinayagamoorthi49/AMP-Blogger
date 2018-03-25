@@ -406,6 +406,8 @@ amp-social-share[type=gplus]{background-color:#dc4e41;border-radius:2px;-moz-bor
 amp-social-share[type=facebook],amp-social-share[type=linkedin]{border-radius:2px;background-size:18px 18px;transition:all .4s ease-out}
 amp-social-share[type=facebook]{background-color:#3b5998;-moz-border-radius:2px;-webkit-border-radius:2px}
 amp-social-share[type=linkedin]{background-color:#0077b5;-moz-border-radius:2px;-webkit-border-radius:2px}
+amp-social-share[type=whatsapp]{border-radius:2px;background-size:18px 18px;transition:all .4s ease-out}
+amp-social-share[type=whatsapp]{background-color:#009933;-moz-border-radius:2px;-webkit-border-radius:2px}
 amp-social-share[type=pinterest]{background-color:#bd081c;border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px;background-size:18px 18px;transition:all .4s ease-out}
 .PopularPosts .widget-content ul{width:100%;padding:0;list-style-type:none}
 .PopularPosts .widget-content ul li{margin:0 0 10px;padding-bottom:10px;position:relative;overflow:hidden}
@@ -1437,7 +1439,7 @@ body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animatio
     <amp-social-share expr:data-param-url='data:blog.canonicalUrl' height='35' type='linkedin' width='45'/>
     <amp-social-share expr:data-param-url='data:blog.canonicalUrl' height='35' type='pinterest' width='45'/>
     <b:if cond='data:blog.isMobileRequest'>
-<amp-social-share data-share-endpoint='whatsapp://send' expr:data-param-text='&quot;Checkout - &quot; + data:blog.pageTitle +  data:blog.canonicalUrl' height='45' type='whatsapp' width='35'/>
+<amp-social-share data-share-endpoint='whatsapp://send' expr:data-param-text='&quot;Checkout - &quot; + data:blog.pageTitle +  data:blog.canonicalUrl' height='35' type='whatsapp' width='45'/>
       </b:if>
   </div>
 </b:if>
